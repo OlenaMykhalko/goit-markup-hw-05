@@ -525,7 +525,7 @@ a {
   margin-right: auto;
   margin-bottom: 4px;
   margin-left: 24px;
-
+  padding-top: 20px;
   color: var(--title-text-color);
   font-weight: 700;
   font-size: 18px;
